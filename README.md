@@ -20,26 +20,35 @@
 * 调试方式
 * APP加固和发布
 
-# 课程教案
+# 学习资源
+## 课程教案
 [百度网盘课件资源](https://pan.baidu.com/s/1boUYhH1)
 
-# 参考资源
-[Android中文官网](https://developer.android.google.cn/index.html)
-[开源工程](https://github.com/Trinea/android-open-project)
+## 官方学习网站/Wiki
+* [Android Developer中文官网](https://developer.android.google.cn/index.html)
+* [Android Training 中文版](http://hukai.me/android-training-course-in-chinese/index.html)
+* [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
+* [Android Weekly 中文版](http://wiki.jikexueyuan.com/project/android-weekly/)
+* [极客学院 Wiki](http://wiki.jikexueyuan.com/)
 
-CodeKK —— 专注于开源项目源码解析及优秀开源项目的分享
-Trinea —— 性能优化、源码解析
-老罗的Android之旅 —— Android系统源代码分析
-开发技术前线 —— 《Android源码设计模式》作者 Mr.Simple 维护的社区网站
-爱哥 ——《Android源码设计模式》作者 关爱民
-任玉刚 —— 《Android开发艺术探索》作者 CSDN博客
-郭霖 —— 《第一行代码》作者 CSDN博客
-鸿洋 —— CSDN 博客专家
-胡凯 —— 专注性能优化
-张明云 —— Android学习之路
-Drakeet —— 贝壳单词APP开发者
-徐宜生 —— 《Android群英传》作者
-代码家 —— 著名博主
+## 大牛博客
+* [CodeKK](http://a.codekk.com/) —— 专注于开源项目源码解析及优秀开源项目的分享
+* [Trinea](http://www.trinea.cn/) —— 性能优化、源码解析
+* [老罗的Android之旅](http://blog.csdn.net/Luoshengyang) —— Android系统源代码分析
+* [开发技术前线](http://www.devtf.cn/) —— 《Android源码设计模式》作者 Mr.Simple 维护的社区网站
+* [爱哥](http://blog.csdn.net/aigestudio) ——《Android源码设计模式》作者 关爱民
+* [任玉刚](http://blog.csdn.net/singwhatiwanna) —— 《Android开发艺术探索》作者 CSDN博客
+* [郭霖](http://blog.csdn.net/guolin_blog) —— 《第一行代码》作者 CSDN博客
+* [鸿洋](http://blog.csdn.net/lmj623565791) —— CSDN 博客专家
+* [胡凯](http://hukai.me/) —— 专注性能优化
+* [张明云](http://www.jianshu.com/users/e6885381f7d4/latest_articles) —— Android学习之路
+* [Drakeet](http://drakeet.me/) —— 贝壳单词APP开发者
+* [徐宜生](http://blog.csdn.net/eclipsexys) —— 《Android群英传》作者
+* [代码家](http://blog.daimajia.com/) —— 著名博主
+
 ## 在线视频学习
 [慕课网](https://www.imooc.com/course/list?c=android)
 [极客学院](http://www.jikexueyuan.com/course/android/)
+
+## 开源工程
+* * [开源工程](https://github.com/Trinea/android-open-project)
