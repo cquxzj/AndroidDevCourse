@@ -20,4 +20,26 @@
 * 调试方式
 * APP加固和发布
 
-##[百度网盘课件资源](https://pan.baidu.com/s/1boUYhH1)
+# 课程教案
+[百度网盘课件资源](https://pan.baidu.com/s/1boUYhH1)
+
+# 参考资源
+[Android中文官网](https://developer.android.google.cn/index.html)
+[开源工程](https://github.com/Trinea/android-open-project)
+
+CodeKK —— 专注于开源项目源码解析及优秀开源项目的分享
+Trinea —— 性能优化、源码解析
+老罗的Android之旅 —— Android系统源代码分析
+开发技术前线 —— 《Android源码设计模式》作者 Mr.Simple 维护的社区网站
+爱哥 ——《Android源码设计模式》作者 关爱民
+任玉刚 —— 《Android开发艺术探索》作者 CSDN博客
+郭霖 —— 《第一行代码》作者 CSDN博客
+鸿洋 —— CSDN 博客专家
+胡凯 —— 专注性能优化
+张明云 —— Android学习之路
+Drakeet —— 贝壳单词APP开发者
+徐宜生 —— 《Android群英传》作者
+代码家 —— 著名博主
+## 在线视频学习
+[慕课网](https://www.imooc.com/course/list?c=android)
+[极客学院](http://www.jikexueyuan.com/course/android/)
