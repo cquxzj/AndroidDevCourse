@@ -47,8 +47,8 @@
 * [代码家](http://blog.daimajia.com/) —— 著名博主
 
 ## 在线视频学习
-[慕课网](https://www.imooc.com/course/list?c=android)
-[极客学院](http://www.jikexueyuan.com/course/android/)
+* [慕课网](https://www.imooc.com/course/list?c=android)
+* [极客学院](http://www.jikexueyuan.com/course/android/)
 
 ## 开源工程
 * * [开源工程](https://github.com/Trinea/android-open-project)
